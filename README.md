@@ -1,0 +1,1 @@
+The repository contains Java example code focused on Stream API interview questions / examples. It provides a simple domain model (Student) and a Main class that exercises stream-based operations against Student instances.
